@@ -15,6 +15,7 @@ namespace NorthBook.DataAccess.Repository
         public UnitOfWork(ApplicationDbContext db) 
         {
             _db = db;
+            Company = new CompanyRepository(_db);
             Category = new CategoryRepository(_db);
             CoverType = new CoverTypeRepository(_db);
             Product = new ProductRepository(_db);
@@ -22,6 +23,7 @@ namespace NorthBook.DataAccess.Repository
         public ICategoryRepository Category { get; private set; }
         public ICoverTypeRepository CoverType {  get; private set; }
         public IProductRepository Product { get; private set; }
+        public ICompanyRepository Company { get; private set; }
         public void Save()
         {
             _db?.SaveChanges();
