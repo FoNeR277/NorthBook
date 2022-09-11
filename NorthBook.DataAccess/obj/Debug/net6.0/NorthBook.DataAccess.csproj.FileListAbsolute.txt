@@ -1,0 +1,34 @@
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.deps.json
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.runtimeconfig.json
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.dll
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.pdb
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.Models.pdb
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.AssemblyInfo.cs
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.csproj.CopyComplete
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.dll
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\refint\NorthBook.DataAccess.dll
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.pdb
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.genruntimeconfig.cache
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\ref\NorthBook.DataAccess.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.AssemblyInfo.cs
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\refint\NorthBook.DataAccess.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.pdb
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.deps.json
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.runtimeconfig.json
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.DataAccess.pdb
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.Models.pdb
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.csproj.CopyComplete
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.genruntimeconfig.cache
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\ref\NorthBook.DataAccess.dll

@@ -1,0 +1,24 @@
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\bin\Debug\net6.0\NorthBook.Models.deps.json
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\bin\Debug\net6.0\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\bin\Debug\net6.0\NorthBook.Models.pdb
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.csproj.AssemblyReference.cache
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.AssemblyInfoInputs.cache
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.AssemblyInfo.cs
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\refint\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.pdb
+C:\Users\fonerka\Desktop\Нова папка\NorthBook\NorthBook.Models\obj\Debug\net6.0\ref\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\bin\Debug\net6.0\NorthBook.Models.deps.json
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\bin\Debug\net6.0\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\bin\Debug\net6.0\NorthBook.Models.pdb
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.csproj.AssemblyReference.cache
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.AssemblyInfoInputs.cache
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.AssemblyInfo.cs
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\refint\NorthBook.Models.dll
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\NorthBook.Models.pdb
+C:\Users\fonerka\Desktop\notworkd\NorthBook\NorthBook.Models\obj\Debug\net6.0\ref\NorthBook.Models.dll
