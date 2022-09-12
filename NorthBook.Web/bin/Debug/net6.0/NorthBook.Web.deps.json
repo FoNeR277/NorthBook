@@ -41,6 +41,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "6.0.8",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.8",
           "NorthBook.DataAccess": "1.0.0",
+          "NorthBook.Utility": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery.Reference": "6.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions.Reference": "6.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "6.0.0.0",
@@ -3129,6 +3130,17 @@
         },
         "compile": {
           "NorthBook.Models.dll": {}
+        }
+      },
+      "NorthBook.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "6.0.8"
+        },
+        "runtime": {
+          "NorthBook.Utility.dll": {}
+        },
+        "compile": {
+          "NorthBook.Utility.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery.Reference/6.0.0.0": {
@@ -6392,6 +6404,11 @@
       "sha512": ""
     },
     "NorthBook.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthBook.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

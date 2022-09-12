@@ -4334,6 +4334,19 @@
         "runtime": {
           "bin/placeholder/NorthBook.Models.dll": {}
         }
+      },
+      "NorthBook.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/NorthBook.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthBook.Utility.dll": {}
+        }
       }
     }
   },
@@ -11645,6 +11658,11 @@
       "type": "project",
       "path": "../NorthBook.Models/NorthBook.Models.csproj",
       "msbuildProject": "../NorthBook.Models/NorthBook.Models.csproj"
+    },
+    "NorthBook.Utility/1.0.0": {
+      "type": "project",
+      "path": "../NorthBook.Utility/NorthBook.Utility.csproj",
+      "msbuildProject": "../NorthBook.Utility/NorthBook.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11655,7 +11673,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.8",
-      "NorthBook.DataAccess >= 1.0.0"
+      "NorthBook.DataAccess >= 1.0.0",
+      "NorthBook.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11692,6 +11711,9 @@
           "projectReferences": {
             "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.DataAccess\\NorthBook.DataAccess.csproj": {
               "projectPath": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.DataAccess\\NorthBook.DataAccess.csproj"
+            },
+            "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Utility\\NorthBook.Utility.csproj": {
+              "projectPath": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Utility\\NorthBook.Utility.csproj"
             }
           }
         }

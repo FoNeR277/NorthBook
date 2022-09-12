@@ -961,3 +961,5 @@ C:\Users\fonerka\Desktop\NorthBook\NorthBook.Web\obj\Debug\net6.0\ref\NorthBook.
 C:\Users\fonerka\Desktop\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\fonerka\Desktop\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\fonerka\Desktop\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fonerka\Desktop\NorthBook\NorthBook.Web\bin\Debug\net6.0\NorthBook.Utility.dll
+C:\Users\fonerka\Desktop\NorthBook\NorthBook.Web\bin\Debug\net6.0\NorthBook.Utility.pdb
