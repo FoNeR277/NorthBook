@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NorthBook.Web"
+    "\\NorthBook.Web",
+    "\\NorthBook.Web\\Areas",
+    "\\NorthBook.Web\\Areas\\Identity",
+    "\\NorthBook.Web\\Areas\\Identity\\Pages",
+    "\\NorthBook.Web\\Areas\\Identity\\Pages\\Account"
   ],
   "SelectedNode": "\\NorthBook.sln",
   "PreviewInSolutionExplorer": false

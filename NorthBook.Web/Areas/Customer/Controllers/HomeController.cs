@@ -1,8 +1,11 @@
 ﻿using System.Diagnostics;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NorthBook.DataAccess.Repository.IRepository;
 using NorthBook.Models;
 using NorthBook.Models.ViewModels;
+using ShoppingCart = NorthBook.Models.ShoppingCart;
 
 namespace NorthBook.Web.Areas.Customer.Controllers;
 [Area("Customer")]
@@ -24,14 +27,42 @@ public class HomeController : Controller
         return View(productList);
     }
 
-    public IActionResult Details(int? id)
+    public IActionResult Details(int? productId)
     {
         ShoppingCart cartObj = new()
         {
-            Product = _unitOfWork.Product.GetFirstOrDefault(x => x.Id == id, includeProperties: "Category,CoverType")!,
+            Product = _unitOfWork.Product.GetFirstOrDefault(x => x.Id == productId, includeProperties: "Category,CoverType")!,
+            ProductId = productId,
             Count = 1
         };
         return View(cartObj);
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    [Authorize]
+    public IActionResult Details(ShoppingCart shoppingCart)
+    {
+        var claimsIdentity = (ClaimsIdentity)User.Identity!;
+        var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+        shoppingCart.ApplicationUserId = claim.Value;
+
+        ShoppingCart? cartFromDb = _unitOfWork.ShoppingCart.GetFirstOrDefault
+        (u => u.ApplicationUserId == claim.Value && u.ProductId == shoppingCart.ProductId);
+
+
+        if (cartFromDb == null)
+        {
+            _unitOfWork.ShoppingCart.Add(shoppingCart);
+        }
+        else
+        {
+            _unitOfWork.ShoppingCart.IncrementCount(cartFromDb, cartFromDb.Count);
+        }
+        _unitOfWork.Save();
+
+        return RedirectToAction(nameof(Index));
+        
     }
 
     public IActionResult Privacy()

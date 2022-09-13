@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArmmMqGh/PkOsIkp1VDbNbwAAAAACAAAAAAAQZgAAAAEAACAAAADu1zr8GV5CTMR1WUgAW+f6ERMldpqp6OnQzBKsqQuZFwAAAAAOgAAAAAIAACAAAAANo/eyXHmyu/ofJKQzA6A5xd93e6a6z76hwQQULQ5EdIAAAAA0O1uPhQgI5/WtmRSgVHstF+Vl+XkiF/5MsM5qMYYd3onSLPBXskqh6eeo8Qdd0hzBzQzqOa6Qcc23lhallvx2S2195jOeZ7TvcmkLvw/5BiBtwWpAZnPFu1LUGCAqmU0EYW5UAup8nk8vei8MQL97rHSbnk6+Fx3K0qZMIeOWY0AAAAAZwkvcXyyO/8RSsRwVE/IqxKZxFsi7yjriLsij1c5iobtv/b457OE52nHFLT71evWKrz8Ek46r0AVsKG7GwgRy</EncryptedPassword>
+    <History>True|2022-09-13T12:43:31.6696423Z;True|2022-09-13T15:34:29.6980238+03:00;True|2022-09-13T14:05:08.0359024+03:00;True|2022-09-13T14:01:49.6661224+03:00;True|2022-09-13T13:56:22.2887932+03:00;True|2022-09-13T13:53:41.6373209+03:00;True|2022-09-13T13:46:14.1787229+03:00;True|2022-09-13T13:26:33.1183501+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=NorthBook.Web%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
