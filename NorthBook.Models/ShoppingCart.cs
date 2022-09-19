@@ -13,7 +13,7 @@ namespace NorthBook.Models
     {
         public int Id { get; set; }
 
-        public int? ProductId { get; set; }
+        public int ProductId { get; set; }
         [ForeignKey("ProductId")]
         [ValidateNever]
         public Product Product { get; set; }

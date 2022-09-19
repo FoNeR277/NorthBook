@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YKBEMOJAFIYaYGK5sgRXYLTTRlHu5flqs4gvTk8QFNw=",
+  "Hash": "sMOgMMkqiefDiZF6KL9wlDF/Qay2u7ZwSi3eG//XLbs=",
   "Source": "NorthBook.Web",
   "BasePath": "_content/NorthBook.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "NorthBook.Web\\wwwroot",
       "Source": "NorthBook.Web",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\fonerka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.8\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NorthBook.Web.styles.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NorthBook.Web.styles.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "NorthBook.Web.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NorthBook.Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NorthBook.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NorthBook.Web.bundle.scp.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NorthBook.Web.bundle.scp.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "NorthBook.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NorthBook.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NorthBook.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\css\\bootswatchTheme.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\css\\bootswatchTheme.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "css/bootswatchTheme.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\css\\site.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\favicon.ico",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1122,12 +1122,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\25c9ba73-721b-43e1-86c5-a8274385b027.jpg",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\images\\lawn_leaf.jpg",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/25c9ba73-721b-43e1-86c5-a8274385b027.jpg",
+      "RelativePath": "images/lawn_leaf.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\25c9ba73-721b-43e1-86c5-a8274385b027.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\496ef064-874c-436f-bbb0-ae43672123c0.jpg",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\e417ed7d-4f41-4bc0-b533-7560bb1dca89.png",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/496ef064-874c-436f-bbb0-ae43672123c0.jpg",
+      "RelativePath": "images/products/e417ed7d-4f41-4bc0-b533-7560bb1dca89.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,149 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\496ef064-874c-436f-bbb0-ae43672123c0.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\e417ed7d-4f41-4bc0-b533-7560bb1dca89.png"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\787b4efa-8641-4640-ae99-46da050decd8.jpg",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\js\\company.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/787b4efa-8641-4640-ae99-46da050decd8.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\787b4efa-8641-4640-ae99-46da050decd8.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\9459e4aa-e665-46bb-b1ba-1a6eb64bb746.jpg",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/9459e4aa-e665-46bb-b1ba-1a6eb64bb746.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\9459e4aa-e665-46bb-b1ba-1a6eb64bb746.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\ae07267d-6e2d-47fd-98bd-04fa4c988d68.jpg",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/ae07267d-6e2d-47fd-98bd-04fa4c988d68.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\ae07267d-6e2d-47fd-98bd-04fa4c988d68.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\b6e42ed8-f92a-4c73-a431-af700c8efae1.jpg",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/b6e42ed8-f92a-4c73-a431-af700c8efae1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\b6e42ed8-f92a-4c73-a431-af700c8efae1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\b74cb6d6-a061-4d08-ac6c-dd743eb617b0.jpg",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/b74cb6d6-a061-4d08-ac6c-dd743eb617b0.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\b74cb6d6-a061-4d08-ac6c-dd743eb617b0.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\cb54596f-4531-47b5-b858-50fe4db7a85c.jpg",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/cb54596f-4531-47b5-b858-50fe4db7a85c.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\cb54596f-4531-47b5-b858-50fe4db7a85c.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\e665a217-654d-4f75-aaef-e5fbccfddc5f.jpg",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/e665a217-654d-4f75-aaef-e5fbccfddc5f.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\e665a217-654d-4f75-aaef-e5fbccfddc5f.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\f033ca57-c1fb-4953-9e9c-6d7834f586e0.jpg",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
-      "BasePath": "_content/NorthBook.Web",
-      "RelativePath": "images/products/f033ca57-c1fb-4953-9e9c-6d7834f586e0.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\f033ca57-c1fb-4953-9e9c-6d7834f586e0.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\js\\company.js",
-      "SourceId": "NorthBook.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "js/company.js",
       "AssetKind": "All",
@@ -1309,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\js\\product.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -1326,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\js\\site.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1343,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1360,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1377,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1394,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1496,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1513,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1530,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1632,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1649,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1666,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1768,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1785,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1802,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1836,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1853,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1870,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1904,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1921,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1938,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1972,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1989,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2006,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2040,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2057,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2074,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2108,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2125,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2142,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2159,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2176,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2193,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2210,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2227,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2244,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2261,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2278,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2295,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
       "BasePath": "_content/NorthBook.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

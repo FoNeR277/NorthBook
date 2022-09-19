@@ -2784,6 +2784,23 @@
           }
         }
       },
+      "Stripe.net/40.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -7735,6 +7752,29 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
+    "Stripe.net/40.9.0": {
+      "sha512": "0ouKCPbPi3gmD8wiptpIWq1lsJxxUYqcscwIjkayeMGPebpZsjetoyPpFPwLviVKrLQPKctNDWrLr3BPO0ofoA==",
+      "type": "package",
+      "path": "stripe.net/40.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/net461/Stripe.net.dll",
+        "lib/net461/Stripe.net.xml",
+        "lib/net5.0/Stripe.net.dll",
+        "lib/net5.0/Stripe.net.xml",
+        "lib/net6.0/Stripe.net.dll",
+        "lib/net6.0/Stripe.net.xml",
+        "lib/netcoreapp3.1/Stripe.net.dll",
+        "lib/netcoreapp3.1/Stripe.net.xml",
+        "lib/netstandard2.0/Stripe.net.dll",
+        "lib/netstandard2.0/Stripe.net.xml",
+        "stripe.net.40.9.0.nupkg.sha512",
+        "stripe.net.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -11674,7 +11714,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.8",
       "NorthBook.DataAccess >= 1.0.0",
-      "NorthBook.Utility >= 1.0.0"
+      "NorthBook.Utility >= 1.0.0",
+      "Stripe.net >= 40.9.0"
     ]
   },
   "packageFolders": {
@@ -11684,11 +11725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\NorthBook.Web.csproj",
+      "projectUniqueName": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\NorthBook.Web.csproj",
       "projectName": "NorthBook.Web",
-      "projectPath": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\NorthBook.Web.csproj",
+      "projectPath": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\NorthBook.Web.csproj",
       "packagesPath": "C:\\Users\\fonerka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Web\\obj\\",
+      "outputPath": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11709,11 +11750,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.DataAccess\\NorthBook.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.DataAccess\\NorthBook.DataAccess.csproj"
+            "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.DataAccess\\NorthBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.DataAccess\\NorthBook.DataAccess.csproj"
             },
-            "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Utility\\NorthBook.Utility.csproj": {
-              "projectPath": "C:\\Users\\fonerka\\Desktop\\NorthBook\\NorthBook.Utility\\NorthBook.Utility.csproj"
+            "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Utility\\NorthBook.Utility.csproj": {
+              "projectPath": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Utility\\NorthBook.Utility.csproj"
             }
           }
         }
@@ -11753,6 +11794,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.8, )"
+          },
+          "Stripe.net": {
+            "target": "Package",
+            "version": "[40.9.0, )"
           }
         },
         "imports": [
@@ -11774,7 +11819,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -27,7 +27,7 @@ public class HomeController : Controller
         return View(productList);
     }
 
-    public IActionResult Details(int? productId)
+    public IActionResult Details(int productId)
     {
         ShoppingCart cartObj = new()
         {
