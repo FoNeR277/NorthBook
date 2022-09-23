@@ -1271,7 +1271,6 @@ C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -1532,3 +1531,6 @@ C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\obj\Debug\net6.0\NorthBook
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\obj\Debug\net6.0\NorthBook.Web.genruntimeconfig.cache
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\obj\Debug\net6.0\ref\NorthBook.Web.dll
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.Web\bin\Debug\net6.0\Microsoft.NET.StringTools.dll

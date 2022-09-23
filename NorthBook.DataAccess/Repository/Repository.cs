@@ -13,6 +13,7 @@ namespace NorthBook.DataAccess.Repository
         public Repository(ApplicationDbContext db)
         {
             _db = db;
+            //_db.ShoppingCarts.AsNoTracking();
             //_db.ShoppingCarts.Include(u => u.Product).Include(u=>u.CoverType);
             this.DbSet = _db.Set<T>();
         }

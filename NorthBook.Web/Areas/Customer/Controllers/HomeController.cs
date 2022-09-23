@@ -54,10 +54,12 @@ public class HomeController : Controller
         if (cartFromDb == null)
         {
             _unitOfWork.ShoppingCart.Add(shoppingCart);
+            TempData["Success"] = "Product added successfully";
         }
         else
         {
             _unitOfWork.ShoppingCart.IncrementCount(cartFromDb, cartFromDb.Count);
+            TempData["Success"] = "Product added successfully";
         }
         _unitOfWork.Save();
 

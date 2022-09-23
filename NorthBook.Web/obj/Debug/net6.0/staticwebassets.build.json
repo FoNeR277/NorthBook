@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sMOgMMkqiefDiZF6KL9wlDF/Qay2u7ZwSi3eG//XLbs=",
+  "Hash": "vEswgQJF4YY6TF4oVudGonko7yAW9K+HCqjuoEWeKFE=",
   "Source": "NorthBook.Web",
   "BasePath": "_content/NorthBook.Web",
   "Mode": "Default",
@@ -1139,6 +1139,23 @@
       "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\28a39431-7be9-4b6b-b2da-a71861979077.jpg",
+      "SourceId": "NorthBook.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "BasePath": "_content/NorthBook.Web",
+      "RelativePath": "images/products/28a39431-7be9-4b6b-b2da-a71861979077.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\28a39431-7be9-4b6b-b2da-a71861979077.jpg"
+    },
+    {
       "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\images\\products\\e417ed7d-4f41-4bc0-b533-7560bb1dca89.png",
       "SourceId": "NorthBook.Web",
       "SourceType": "Discovered",
@@ -1171,6 +1188,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
+    },
+    {
+      "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\js\\order.js",
+      "SourceId": "NorthBook.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\",
+      "BasePath": "_content/NorthBook.Web",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\fonerka\\Documents\\nb\\NorthBook\\NorthBook.Web\\wwwroot\\js\\product.js",
