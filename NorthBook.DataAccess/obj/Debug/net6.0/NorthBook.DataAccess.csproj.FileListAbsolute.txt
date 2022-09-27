@@ -66,3 +66,5 @@ C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\re
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.pdb
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\NorthBook.DataAccess.genruntimeconfig.cache
 C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.DataAccess\obj\Debug\net6.0\ref\NorthBook.DataAccess.dll
+C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.Utility.dll
+C:\Users\fonerka\Documents\nb\NorthBook\NorthBook.DataAccess\bin\Debug\net6.0\NorthBook.Utility.pdb

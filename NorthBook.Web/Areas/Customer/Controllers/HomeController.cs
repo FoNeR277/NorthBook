@@ -4,8 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NorthBook.DataAccess.Repository.IRepository;
 using NorthBook.Models;
-using NorthBook.Models.ViewModels;
-using ShoppingCart = NorthBook.Models.ShoppingCart;
+using NorthBook.Utility;
 
 namespace NorthBook.Web.Areas.Customer.Controllers;
 [Area("Customer")]
@@ -16,13 +15,13 @@ public class HomeController : Controller
 
     public HomeController(ILogger<HomeController> logger, IUnitOfWork unitOfWork)
     {
-        _unitOfWork = unitOfWork;
         _logger = logger;
+        _unitOfWork = unitOfWork;
     }
 
     public IActionResult Index()
     {
-        IEnumerable<Product?> productList = _unitOfWork.Product.GetAll(includeProperties: "Category,CoverType")!;
+        IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category,CoverType");
 
         return View(productList);
     }
@@ -31,10 +30,11 @@ public class HomeController : Controller
     {
         ShoppingCart cartObj = new()
         {
-            Product = _unitOfWork.Product.GetFirstOrDefault(x => x.Id == productId, includeProperties: "Category,CoverType")!,
+            Count = 1,
             ProductId = productId,
-            Count = 1
+            Product = _unitOfWork.Product.GetFirstOrDefault(u => u.Id == productId, includeProperties: "Category,CoverType"),
         };
+
         return View(cartObj);
     }
 
@@ -43,29 +43,32 @@ public class HomeController : Controller
     [Authorize]
     public IActionResult Details(ShoppingCart shoppingCart)
     {
-        var claimsIdentity = (ClaimsIdentity)User.Identity!;
+        var claimsIdentity = (ClaimsIdentity)User.Identity;
         var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
         shoppingCart.ApplicationUserId = claim.Value;
 
-        ShoppingCart? cartFromDb = _unitOfWork.ShoppingCart.GetFirstOrDefault
-        (u => u.ApplicationUserId == claim.Value && u.ProductId == shoppingCart.ProductId);
+        ShoppingCart cartFromDb = _unitOfWork.ShoppingCart.GetFirstOrDefault(
+            u => u.ApplicationUserId == claim.Value && u.ProductId == shoppingCart.ProductId);
 
 
         if (cartFromDb == null)
         {
+
             _unitOfWork.ShoppingCart.Add(shoppingCart);
-            TempData["Success"] = "Product added successfully";
+            _unitOfWork.Save();
+            HttpContext.Session.SetInt32(SD.SessionCart,
+                _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == claim.Value).ToList().Count);
         }
         else
         {
-            _unitOfWork.ShoppingCart.IncrementCount(cartFromDb, cartFromDb.Count);
-            TempData["Success"] = "Product added successfully";
+            _unitOfWork.ShoppingCart.IncrementCount(cartFromDb, shoppingCart.Count);
+            _unitOfWork.Save();
         }
-        _unitOfWork.Save();
+
 
         return RedirectToAction(nameof(Index));
-        
     }
+
 
     public IActionResult Privacy()
     {

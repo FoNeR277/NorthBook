@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using NorthBook.DataAccess.Repository.IRepository;
 using NorthBook.Models;
 using NorthBook.Models.ViewModels;
+using NorthBook.Utility;
 
 namespace NorthBook.Web.Areas.Admin.Controllers;
 
 [Area("Admin")]
+[Authorize(Roles = SD.Role_Admin)]
 public class CompanyController : Controller
 {
    
